@@ -16,6 +16,8 @@ The .csv file contains self-report measures of post-origin story shared reality,
 
 ## 3. Analysis scripts
 
-The analysis scripts include running the intersubject correlation analysis and the conversation-recall semantic similarity analysis. 
+a_calc_ISC.m: Script for performing intersubject correlation analysis  
+b_create_nulldist_ISC.m: Script for creating null distribution for ISC  
+c_convo_recall_similarity.py: Script for performing conversation-recall semantic similarity analysis  
 
 
