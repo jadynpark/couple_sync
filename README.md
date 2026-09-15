@@ -1,6 +1,6 @@
 # Brain-to-brain synchrony during shared reminiscing predicts connection and memory in romantic couples
 
-This repository contains analysis code for our manuscript, *Brain-to-brain synchrony during shared reminiscing predicts connection and memory in romantic couples*. If you have any questions or encounter any bugs/broken links, please email me at jadynpark@uchicago.edu.
+This repository contains data and analysis code for our manuscript, *Brain-to-brain synchrony during shared reminiscing predicts connection and memory in romantic couples*. If you have any questions or encounter any bugs/broken links, please email me at jadynpark@uchicago.edu.
 
 ## 1. fNIRS data
 
